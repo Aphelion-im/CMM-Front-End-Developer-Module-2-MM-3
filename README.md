@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1bc265e-1c10-4849-a36b-3193f780fd2e/deploy-status)](https://app.netlify.com/sites/cmm-front-end-developer-module-2-mm-3/deploys)
+
 # College of Multimedia Project MM-3
 
 __Opdrachtomschrijving__
