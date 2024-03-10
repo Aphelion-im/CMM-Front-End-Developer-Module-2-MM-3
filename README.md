@@ -1,2 +1,13 @@
-# CMM-Front-End-Developer-Module-2-MM-3
-College of Multimedia - Front-end Developer - Module 2 - MM-3
+# College of Multimedia Project MM-3
+
+__Opdrachtomschrijving__
+
+"Realiseer aan de hand van drie prototypes een responsive web design (RWD) voor de homepage van 'The Bakery'."
+
+
+## Live Demo Project MM-3
+[Live demo project mm-3](https://cmm-front-end-developer-module-2-mm-3.netlify.app)
+
+![Screenshot MM-3](./assets/the-bakery-the-country-s-largest-en-best-bakery.jpg)
+
+
